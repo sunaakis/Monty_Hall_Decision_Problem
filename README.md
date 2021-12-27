@@ -1,4 +1,4 @@
-# Monty_Hall_Problem
+## Monty Hall Decision Problem
 
 The Monty Hall Problem is a decision problem where a player has to decide which of the three doors to chose to find the car which was hidden behind one the three doors given. The design of the game is that once the player choose a door without knowing what is behind the door, the host of the game opens one of the remaining doors. It is important to understand that the host does not choose which door to open randomly. Instead, the choice of the host depends on the player’s choice. So, the choices does not satisfy the condition on independence.<br/>
 
